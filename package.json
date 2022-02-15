@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Heliodex/herokuGunRelay/issues"
   },
-  "homepage": "https://github.com/Heliodex/herokuGunRelay#readme"
+  "homepage": "https://github.com/Heliodex/herokuGunRelay#readme",
+  "dependencies": {
+    "gun": "^0.2020.1235"
+  }
 }
